@@ -1,0 +1,6 @@
+framework module Pods_RandomTrip {
+  umbrella header "Pods-RandomTrip-umbrella.h"
+
+  export *
+  module * { export * }
+}
